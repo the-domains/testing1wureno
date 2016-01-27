@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Testing1wureno]]></title>
         <description><![CDATA[Testing1wureno]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testing1wureno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:05:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 17:12:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testing1wureno/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Another post on the water heaters!</p>]]></description>
+            <link>https://thegrid.ai/testing1wureno/5f0114c0-5928-4b3f-a1d8-82e0d728e2a2/index.html</link>
+            <guid isPermaLink="false">5f0114c0-5928-4b3f-a1d8-82e0d728e2a2</guid>
+            <pubDate>Wed, 27 Jan 2016 17:11:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/091b7dc8-ab8d-4099-915b-0d51a2f763ab.jpg">]]></description>
-            <link>undefined9c4f4004-ce1a-4e2e-8444-88ec1bae7b19/index.html</link>
+            <link>https://thegrid.ai/testing1wureno/9c4f4004-ce1a-4e2e-8444-88ec1bae7b19/index.html</link>
             <guid isPermaLink="false">9c4f4004-ce1a-4e2e-8444-88ec1bae7b19</guid>
             <pubDate>Wed, 27 Jan 2016 17:05:06 GMT</pubDate>
         </item>
