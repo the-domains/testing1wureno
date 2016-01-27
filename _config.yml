@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4860365
 color:
-  saturation: 0.4608673
+  saturation: 0.7180451
   brandStrength: 0.6149302
-  lightness: 0.1897999
+  lightness: 0.7502685
   brandColors:
     - '#0E0E0C'
     - '#807E78'
     - '#FFFFFF'
     - '#894B27'
     - '#1E89B3'
-  rhythmicContrast: 0.2422899
-typography_spectrum: 0.4860365
+  rhythmicContrast: 0.632116
+layout_spectrum: 1
 name: Testing1wureno
