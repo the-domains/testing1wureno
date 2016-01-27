@@ -1,14 +1,14 @@
 layout_spectrum: 1
 color:
   saturation: 0.4608673
-  brandStrength: 0.4076262
+  brandStrength: 0.6149302
   lightness: 0.1897999
   brandColors:
-    - '#9A6E30'
-    - '#0E0B06'
+    - '#0E0E0C'
+    - '#807E78'
     - '#FFFFFF'
-    - '#D7AA67'
-    - '#4C5C6E'
+    - '#894B27'
+    - '#1E89B3'
   rhythmicContrast: 0.2422899
 typography_spectrum: 0.4860365
 name: Testing1wureno
