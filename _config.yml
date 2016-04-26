@@ -1,40 +1,40 @@
-name: Testing1wureno
 favicon: null
-layout_spectrum: 0.78615
-typography_spectrum: 0.35066
+name: Testing1wureno
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.7180451
+  brandStrength: 0.6149302
+  rhythmicContrast: 0.632116
   brandColors:
     - '#0E0E0C'
     - '#807E78'
     - '#FFFFFF'
     - '#894B27'
     - '#1E89B3'
-  brandStrength: 0.6149302
   lightness: 0.7502685
-  saturation: 0.7180451
-  rhythmicContrast: 0.632116
-purpose: []
+typography_spectrum: 0.2658432
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.78615
+analytics:
+  twitter: null
+  google: null
+  facebook: null
